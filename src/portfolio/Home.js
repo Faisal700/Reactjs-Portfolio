@@ -3,7 +3,8 @@ import GitHubCalendar from 'react-github-calendar';
 import SkillBar from 'react-skillbars';
 import Skillbars from './Skillbars'
 export const SKILLS = [
-  {type: "REACTJS", level: 70},
+  {type: "REACTJS", level: 80},
+  {type: "REDUX", level: 70},
   {type: "JAVASCRIPT", level: 70},
   {type: "JQUERY", level: 60},
   {type: "BOOTSTRAP", level: 70},
@@ -45,7 +46,7 @@ export default class Home extends Component {
     render() {
         return (
             
-        <div className="container main_container newone_container">
+        <div className="container main_container foo">
     <div className="content_inner_bg row m0">
       <section className="about_person_area pad" id="about">
         <div className="row">
