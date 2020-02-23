@@ -11,7 +11,7 @@ export default class Aboutme extends Component {
           <div className="col-md-5">
             <div className="person_img">
               <img src="img/member/faisal.jpg" alt="" />
-              <a className="download_btn" href="https://drive.google.com/open?id=1yihDgqyJu1SCs0HHs7YlyigJpD_Vcpm5" target="_blank"><span>Download Resume</span></a>
+              <a className="download_btn" href="https://drive.google.com/open?id=1jACMDFdr-4LM55BEp4AvnqOTif_NfD5u" target="_blank"><span>Download Resume</span></a>
             </div>
           </div>
           <div className="col-md-7">
