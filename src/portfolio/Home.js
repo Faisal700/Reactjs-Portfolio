@@ -108,23 +108,18 @@ export default class Home extends Component {
                   <SkillBar  skills={SKILLS}  colors={COLORS}/>
                 </div>
               </div>
-              {/* paste skills here  */}
-              <div className="row" style={{marginTop: '25px'}}>
                 <div className="col-md-6 wow fadeInUp">
                   <div className="skill_text ">
                     <h4>{/* Web development Skills */}</h4>
                     
                   </div>
                   <div className="skill_item_inner">
-                    {/*  */}
                   <Skillbars />
                   </div>
                 </div>
               </div>
-        </div>
       </section>
       <section className="about_person_area pad" id="contirbutions">
-        
         <div className="row">
           <div className="col-md-12">
             <a style={{textTransform: 'none'}} href="https://github.com/Faisal700" target="_blank">
