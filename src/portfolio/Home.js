@@ -4,10 +4,10 @@ import SkillBar from 'react-skillbars';
 import Skillbars from './Skillbars'
 export const SKILLS = [
   {type: "REACTJS", level: 80},
-  {type: "REDUX", level: 70},
+  {type: "REDUX/FLUX", level: 70},
   {type: "JAVASCRIPT", level: 70},
-  {type: "JQUERY", level: 60},
-  {type: "BOOTSTRAP", level: 70},
+  {type: "JQUERY", level: 70},
+  {type: "BOOTSTRAP", level: 80},
   
 ];
 const COLORS = {

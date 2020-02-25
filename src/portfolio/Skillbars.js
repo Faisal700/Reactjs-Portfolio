@@ -5,7 +5,7 @@ export const NEWSKILLS = [
     {type: "MYSQL", level: 70},
     {type: "LARAVEL", level: 50},
     {type: "CSS", level: 80},
-    {type: "HTML", level: 90},
+    {type: "HTML", level: 80},
   ];
   const COLORS = {
     "bar": "#27a79a",
