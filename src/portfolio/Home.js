@@ -113,7 +113,7 @@ export default class Home extends Component {
                     <h4>{/* Web development Skills */}</h4>
                     
                   </div>
-                  <div className="skill_item_inner">
+                  <div className="skill_item_inner" style="margin-top: 25px;">
                   <Skillbars />
                   </div>
                 </div>
