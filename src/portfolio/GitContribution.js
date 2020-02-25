@@ -7,12 +7,7 @@ export default class GitContribution extends Component {
              <div className="container main_container newone_container">
               <div className="content_inner_bg row m0">
               <section className="about_person_area pad" id="contirbutions">
-        <div className="main_title">
-          <h2>Git Contribution(
-            <a style={{textTransform: 'none'}} href="https://github.com/Faisal700" target="_blank">Faisal-Abbas</a>
-            )
-          </h2>
-        </div>
+       
         <div className="row">
           <div className="col-md-12">
             <a style={{textTransform: 'none'}} href="https://github.com/Faisal700" target="_blank">
