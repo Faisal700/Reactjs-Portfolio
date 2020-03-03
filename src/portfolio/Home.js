@@ -3,11 +3,11 @@ import GitHubCalendar from 'react-github-calendar';
 import SkillBar from 'react-skillbars';
 import Skillbars from './Skillbars'
 export const SKILLS = [
-  {type: "REACTJS", level: 80},
-  {type: "REDUX/FLUX", level: 70},
-  {type: "JAVASCRIPT", level: 70},
-  {type: "JQUERY", level: 70},
-  {type: "BOOTSTRAP", level: 80},
+  {type: "REACTJS", level: 70},
+  {type: "REDUX", level: 60},
+  {type: "JAVASCRIPT", level: 50},
+  {type: "JQUERY", level: 50},
+  {type: "BOOTSTRAP", level: 50},
   
 ];
 const COLORS = {
