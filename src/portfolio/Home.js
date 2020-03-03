@@ -138,7 +138,7 @@ export default class Home extends Component {
         </div>
         <div className="education_inner_area">
           <div className="education_item wow fadeInUp animated" data-line="B">
-          <h6>Oct 2019-Continue</h6>
+          <h6>Oct 2019-Feb-2019</h6>
             <a target="_blank" href="https://wgroup.tech">
               <h4>Reactjs dev</h4>
             </a>
